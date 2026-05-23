@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-05-23T11:14:35.781Z",
+  "resourceSlug": "outbox-pattern-checklist-dotnet",
+  "title": "Outbox pattern checklist + schema (.NET)",
+  "description": "A minimal schema, polling publisher template, and rollout checklist for reliable event publishing in .NET.",
+  "category": ".NET",
+  "pillar": "",
+  "canonicalResourceUrl": "https://matrixtrak.com/resources/outbox-pattern-checklist-dotnet",
+  "primaryPostSlugs": [
+    "outbox-pattern-without-enterprise-baggage-reliable-writes-events"
+  ],
+  "secondaryRelatedPostSlugs": [
+    "idempotency-keys-for-apis-prevent-duplicate-orders-emails-writes"
+  ]
+}
