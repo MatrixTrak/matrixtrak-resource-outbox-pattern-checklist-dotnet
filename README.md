@@ -17,6 +17,17 @@ It is designed for quick implementation support, community sharing, and stable v
 
 A minimal schema, polling publisher template, and rollout checklist for reliable event publishing in .NET.
 
+## Repository Contents
+
+- `resources/` contains shipped files copied from MatrixTrak public ship assets when available
+- `docs/post-mapping.md` maps this resource to related blog posts
+- `docs/resource-files.md` lists included files and source mapping
+- Included shipped files:
+  - resources/outbox-publisher-template.cs
+  - resources/outbox-rollout-checklist.md
+  - resources/outbox-table-schema.sql
+  - resources/README.md
+
 ## Who This Is For
 
 - Engineers handling production incidents and reliability gaps
