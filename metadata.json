@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T11:14:35.781Z",
+  "generatedAt": "2026-05-23T12:20:13.714Z",
   "resourceSlug": "outbox-pattern-checklist-dotnet",
   "title": "Outbox pattern checklist + schema (.NET)",
   "description": "A minimal schema, polling publisher template, and rollout checklist for reliable event publishing in .NET.",
