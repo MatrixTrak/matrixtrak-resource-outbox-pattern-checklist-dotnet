@@ -56,10 +56,10 @@ The schema and publisher are minimal starting points. Extend as needed:
 
 ## Related Resources
 
-- [Outbox pattern blog post](/blog/outbox-pattern-without-enterprise-baggage-reliable-writes-events)
-- [Idempotency keys for APIs](/blog/idempotency-keys-for-apis-prevent-duplicate-orders-emails-writes)
+- [Outbox pattern blog post](https://matrixtrak.com/blog/outbox-pattern-without-enterprise-baggage-reliable-writes-events)
+- [Idempotency keys for APIs](https://matrixtrak.com/blog/idempotency-keys-for-apis-prevent-duplicate-orders-emails-writes)
 - [Microsoft outbox pattern guidance](https://learn.microsoft.com/azure/architecture/best-practices/transactional-outbox)
 
 ## Support
 
-If you need help implementing the outbox pattern or hardening your event pipeline, see [MatrixTrak services](/services).
+If you need help implementing the outbox pattern or hardening your event pipeline, see [MatrixTrak services](https://matrixtrak.com/services).

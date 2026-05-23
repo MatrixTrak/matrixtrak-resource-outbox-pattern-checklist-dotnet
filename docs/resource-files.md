@@ -13,4 +13,4 @@ Resource slug: outbox-pattern-checklist-dotnet
 - resources/outbox-publisher-template.cs (8233 bytes)
 - resources/outbox-rollout-checklist.md (4951 bytes)
 - resources/outbox-table-schema.sql (3470 bytes)
-- resources/README.md (2669 bytes)
+- resources/README.md (2735 bytes)
